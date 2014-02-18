@@ -1,5 +1,5 @@
 package hello;
-/*vuyo's program*/
+/*vuyo's program 2014/02/18*/
 
 import org.joda.time.LocalTime;
 
